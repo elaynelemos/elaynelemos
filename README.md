@@ -5,13 +5,13 @@
 
 - 🔭 I’m now working on an open source [backup agent](https://github.com/elaynelemos/backup-agent/).
 
-- 🌱 I’m currently learning **Networking, Ansible, Elastic Stack!**
+- 🌱 I’m currently learning **Networking, Ansible, Elastic Stack**!
 
-- 💬 Ask me about **InfoSec, Infrastructure and Data Protection.**
+- 💬 Ask me about **InfoSec, Infrastructure and Data Protection**.
 
 - 📫 How to reach me **elayne.lemos@sysvale.com**
 
-- ⚡ Fun fact **I'm crazy about volunteering.** 😆
+- ⚡ Fun fact: **I'm crazy about volunteering**. 😆
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
