@@ -3,7 +3,7 @@
 
 - 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com) which is a Health Tech.
 
-- 🔭 I’m now working on an open source [backup agent](https://github.com/elaynelemos/backup-agent/).
+- 🔭 I’m working on an open source [backup agent](https://github.com/elaynelemos/backup-agent/) now (open for contributions!).
 
 - 🌱 I’m currently learning **Networking, Ansible, Elastic Stack**!
 
