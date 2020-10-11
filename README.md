@@ -1,6 +1,6 @@
 <h3 align="center">A curious and rushed tech girl from Brasil. 🤓</h3>
 
-- 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com) which is a Health Tech.
+- 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com), which is a Health Tech, and I'm also a community volunteer at [LPI](https://www.lpi.org).
 
 - 🔭 I’m working on an open source [backup agent](https://github.com/elaynelemos/backup-agent/) now (open for contributions!).
 
