@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Elayne! 🤓</h1>
-<h3 align="center">A curious and rushed tech girl from Brasil.</h3>
+<h3 align="center">A curious and rushed tech girl from Brasil. 🤓</h3>
 
 - 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com) which is a Health Tech.
 
