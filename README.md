@@ -2,7 +2,7 @@
 
 - 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com) and I'm also a volunteer at [LPI](https://www.lpi.org).
 
-- 💬 Ask me about **InfoSec, Infrastructure and DevOps**.
+- 💬 Interested about **InfoSec, Infrastructure and DevOps**.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
