@@ -1,8 +1,8 @@
 <h3 align="center">Hey, y'all!</h3>
 
-- 👩🏼‍💻 I'm currently an intern at [Sysvale Softgroup](https://sysvale.com) and I'm also a volunteer at [LPI](https://www.lpi.org).
+- 👩🏼‍💻 I'm currently DevOps Engineer at [Sysvale Softgroup](https://sysvale.com) and I'm also a volunteer at [LPI](https://www.lpi.org) and [DevOpsDays Vitoria](https://devopsdays.org/vitoria).
 
-- 💬 Interested about **InfoSec, Infrastructure and DevOps**.
+- 💬 Interested about **DevOps, Infrastructure and InfoSec**.
 
 <p align="left">
 <h3 align="left">You can reach me out at:</h3>
