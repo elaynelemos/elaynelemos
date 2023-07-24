@@ -1,6 +1,6 @@
 <h3 align="center">Hey, y'all!</h3>
 
-- 👩🏼‍💻 I'm currently DevOps Engineer at [Sysvale Softgroup](https://sysvale.com) and I'm also a volunteer at [LPI](https://www.lpi.org) and [DevOpsDays Vitoria](https://devopsdays.org/vitoria).
+- 👩🏼‍💻 I'm currently Site Reliability Engineer at [Luizalabs](https://medium.com/luizalabs) and I'm also a volunteer at [LPI](https://www.lpi.org) and [DevOpsDays Vitoria](https://devopsdays.org/vitoria).
 
 - 💬 Interested about **DevOps, Infrastructure and InfoSec**.
 
